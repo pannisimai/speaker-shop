@@ -76,8 +76,8 @@ float: right;
 .leftpic {
   position: relative;
   background-image: url("/assets/images/white-box.jpg");
-width: 10%;
-height: 300px;
+  width: 10%;
+  height: 300px;
 
 }
 
