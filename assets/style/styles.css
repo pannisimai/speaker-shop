@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: gainsboro;
+  font-family: 'Work Sans', sans-serif;
+  padding: 200px;
+  margin: auto;
+  position: relative;
+}
+
+header,
+nav,
+main,
+footer {
+ background-color: white;
+ 
+  
+}
+span {
+  position: absolute;
+  margin-left: 20px;
+  padding-top: 15px;
+}
+header{
+ 
+}
+
+
+
+nav {
+  
+}
+.navigation  {
+  list-style: none;
+margin: ;
+padding: 0;
+}
+
+.navigation:after {
+  content: "";
+display: table;
+clear: both;
+}
+
+li {
+  padding: 14px 16px;
+  text-align: center;
+  border: none;
+  display: inline-block;
+  float: right;
+}
+
+.speaker {
+  width: 20px;
+}
+
+section.intro-text {
+   padding: 200px;
+ }
+
+
+.video {
+  padding: 5px;
+background-color: black;
+color: white;
+float: right;
+}
+.videobutton {
+  width: 10px;
+}
+
+.leftpic {
+  position: relative;
+  background-image: url("/assets/images/white-box.jpg");
+width: 10%;
+height: 300px;
+
+}
+
+.container {
+ 
+  width: 884px;
+  height: 300px;
+  
+}
+
